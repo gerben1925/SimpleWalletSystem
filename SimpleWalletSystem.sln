@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33328.57
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleWalletSystem", "SimpleWalletSystem\SimpleWalletSystem.csproj", "{1CA4D325-CC72-47DA-A298-03C765D6ECCA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleWalletSystem.Tests", "SimpleWalletSystem.Tests\SimpleWalletSystem.Tests.csproj", "{F119C968-6465-452A-AB80-7054B61438EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CA4D325-CC72-47DA-A298-03C765D6ECCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CA4D325-CC72-47DA-A298-03C765D6ECCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CA4D325-CC72-47DA-A298-03C765D6ECCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CA4D325-CC72-47DA-A298-03C765D6ECCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F119C968-6465-452A-AB80-7054B61438EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F119C968-6465-452A-AB80-7054B61438EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F119C968-6465-452A-AB80-7054B61438EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F119C968-6465-452A-AB80-7054B61438EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0ED48588-5549-4D27-8796-70A9713053DC}
+	EndGlobalSection
+EndGlobal
